@@ -1,2 +1,3 @@
-public class UsBank2 {
+public class UsBank2{
+
 }
