@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393140b9-51b4-4959-ba3d-1417cfbcafc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstGitRepoFall2018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstGitRepoFall2018/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GitHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsBank.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bookit-acceptance-tests-master 2/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bookit-acceptance-tests-master 2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
     </list>
@@ -27,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UsBank.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -36,6 +46,15 @@
                 <element signature="e#66#67#0" expanded="true" />
                 <element signature="e#84#85#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UsBank1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -77,13 +96,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
     <option name="y" value="28" />
@@ -109,6 +121,11 @@
               <item name="MyFirstGitRepoFall2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstGitRepoFall2018" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFirstGitRepoFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstGitRepoFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,6 +221,13 @@
             <element signature="e#66#67#0" expanded="true" />
             <element signature="e#84#85#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UsBank1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
