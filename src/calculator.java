@@ -1,5 +1,5 @@
 public class calculator {
-
+//this is a very good method
     public static double add (double num1, double num2){
         Double result = num1+num2;
         return result;
