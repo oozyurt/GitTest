@@ -8,8 +8,6 @@ public class calculator {
         return num1-num2;
     }
 
-
-
     public static void main(String[] args) {
         System.out.println(add(20,15));
         System.out.println(subtract(20,15));
