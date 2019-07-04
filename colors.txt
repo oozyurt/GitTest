@@ -7,3 +7,10 @@ black
 grey
 purple
 Yellow
+Blue
+Silver
+Gold
+Brown
+bronze
+blonde
+green
