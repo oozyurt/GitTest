@@ -15,6 +15,11 @@ public class calculator {
         return num1*num2;
     }
     
+     public static double divide (double num1, double num2){
+        Double result= num1-num2;
+        return result;
+    }
+    
     
 
     public static void main(String[] args) {
