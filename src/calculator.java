@@ -20,6 +20,7 @@ public class calculator {
     public static void main(String[] args) {
         System.out.println(add(20,15));
         System.out.println(subtract(20,15));
+        System.out.println("Hello Calculator");
     }
 
 
