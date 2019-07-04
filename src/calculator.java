@@ -16,7 +16,7 @@ public class calculator {
     }
 
     public static double divide (double n1, double n2){
-        Double result= n1-n2;
+        Double result= n1/n2;
         return result;
     }
     
